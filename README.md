@@ -7,6 +7,8 @@ In the realm of social media analytics and research, the ability to efficiently 
 The crawler is engineered for simplicity and efficiency, allowing users to save the scraped data into a structured CSV file and download all images from the targeted accounts directly into a specified Windows directory. This functionality not only serves researchers and marketers looking to analyze Instagram data but also provides a resource for developers interested in creating data-driven applications.
 
 **Example of scrapping ferragamo accounts csv and all images:**
+![ferragamo_posts - Excel 2024_2_12 下午 07_35_47](https://github.com/bob020416/Instgram_UserPosts_Cralwer-/assets/82202284/75565cb1-8a85-48dc-bb00-8c35bfa0e122)
+
 ![ferragamo_posts - Excel 2024_2_12 下午 07_30_17](https://github.com/bob020416/Instgram_UserPosts_Cralwer-/assets/82202284/ba0164d7-bb37-48a2-b30a-1740c885fa0e)
 
 ![images 2024_2_12 下午 07_30_55](https://github.com/bob020416/Instgram_UserPosts_Cralwer-/assets/82202284/1bd89e62-0811-4367-aa78-f6d7d45c3407)
